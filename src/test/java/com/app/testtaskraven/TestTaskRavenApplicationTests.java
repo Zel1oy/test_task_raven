@@ -1,4 +1,4 @@
-package com.app.test_task_raven;
+package com.app.testtaskraven;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

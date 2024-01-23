@@ -1,4 +1,4 @@
-package com.app.test_task_raven;
+package com.app.testtaskraven;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
